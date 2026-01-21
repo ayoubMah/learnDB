@@ -1,0 +1,5 @@
+# Ignore Java test / scratch files
+CourseRegistration.java
+
+# Ignore C++ experiments
+cpp/
