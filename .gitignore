@@ -3,3 +3,5 @@ CourseRegistration.java
 
 # Ignore C++ experiments
 cpp/
+
+out/

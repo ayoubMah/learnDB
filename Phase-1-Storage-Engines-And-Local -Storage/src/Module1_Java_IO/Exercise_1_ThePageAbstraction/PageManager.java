@@ -46,7 +46,7 @@ public class PageManager {
         int ID = buffer.getInt();
 
         int[] pageArr = new int[1023]; // 1023 to leave room for the id header
-        for (int i = 0; i < arr.length; i++){  
+        for (int i = 0; i < pageArr.length; i++){
             pageArr[i] = buffer.getInt();
         }
 
